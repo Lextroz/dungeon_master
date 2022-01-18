@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background_color"
+    android:clickable="true"
+    android:orientation="vertical"
+    android:weightSum="2">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:weightSum="2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+>
+
+        <Button
+            android:id="@+id/buttonDD"
+            android:onClick="onClickFavoriteGame"
+            android:text="@string/btn_DD"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@color/main_background"
+            android:fontFamily="@font/button_and_text"
+            android:textAlignment="center"
+            android:textColor="@color/button_text_color"
+            android:textSize="14sp"
+
+
+            />
+
+
+        <Button
+            android:id="@+id/buttonTableGames"
+            android:onClick="onClickTableGames"
+            android:text="@string/btn_TableGames"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/button_text_color"
+            android:textAlignment="center"
+            android:textSize="14sp"
+            android:fontFamily="@font/button_and_text"
+            android:layout_marginLeft="2dp"
+            android:background="@color/main_background"
+
+
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:weightSum="2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="10dp"
+        >
+
+
+        <Button
+            android:id="@+id/buttonTools"
+            android:onClick="onClickInstruments"
+            android:text="@string/btn_Tools"
+            android:layout_marginRight="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/main_background"
+            android:fontFamily="@font/button_and_text"
+            android:padding="@dimen/menu_btn_items_paddings"
+            android:textAlignment="center"
+            android:textColor="@color/button_text_color"
+            android:textSize="14sp" />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

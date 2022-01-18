@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dungeon Master</string>
+    <string name="signIn">Авторизация</string>
+    <string name="registration"><u>Регистрация</u></string>
+    <string name="btn_reg">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="btn_signIn">Войти</string>
+    <string name="btn_registration">Зарегистрироваться</string>
+    <string name="btn_signOut">Выйти из аккаунта</string>
+    <string name="forget_password"><u>Забыли пароль?</u></string>
+
+
+    <string name="reset">Сброс</string>
+    <string name="save">Сохранить</string>
+    <string name="dopmenu">Дополнительное меню</string>
+    <string name="add_player">Добавить игрока</string>
+    <string name="add_notes">Добавить запись</string>
+    <string name="name_player">Игрок</string>
+    <string name="power_player">Сила</string>
+    <string name="level_player">Уровень</string>
+    <string name="equipment_player">Снаряжение</string>
+    <string name="more"><u>больше</u></string>
+    <string name="storm_counter">Сыграно карт</string>
+
+    <string name="sc_white">белый</string>
+    <string name="sc_black">черный</string>
+    <string name="sc_blue">синий</string>
+    <string name="sc_green">зеленый</string>
+    <string name="sc_colorless">бесцветный</string>
+    <string name="sc_red">красный</string>
+
+
+    <string name="btn_DD">D&amp;D помошник</string>
+    <string name="btn_Tools">Инструментарий</string>
+    <string name="btn_TableGames">Настольные игры</string>
+
+    <string name="btn_Notes">Заметки</string>
+    <string name="btn_GameCounters">Счетчики для игр</string>
+    <string name="btn_OpenDice">Симулятор кубика</string>
+
+    <string name="btn_Manchken">Манчкин</string>
+    <string name="btn_MagicTheGathering">Magic The Gathering</string>
+    <string name="counter_Infect">Infect</string>
+    <string name="counter_health">Здоровье</string>
+
+    <string name="btn_MyGames">Мои игры</string>
+    <string name="btn_ExistingGames">Существующие игры</string>
+
+    <string name="btn_WashingCounter">Счетчик смывки</string>
+    <string name="btn_EquipmentCounter">Счетчик экипировки</string>
+    <string name="btn_LevelCounter">Счетчик уровня</string>
+
+    <string name="btn_Timer">Таймер</string>
+    <string name="btn_CardCounter">Счетчик карт</string>
+    <string name="btn_LifeCounter">Счетчик жизни</string>
+    <string name="btn_TokenCounter">Счетчик жетонов</string>
+
+    <string name="btn_TypicalCounter">Типовой счетчик</string>
+    <string name="btn_UniversalCounter">Универсальный счетчик</string>
+
+    <string name="btn_CreateCharacter">Создать персонажа</string>
+    <string name="btn_ChooseCharacter">Выбрать персонажа</string>
+
+    <string name="btn_Equipment">Снаряжение</string>
+    <string name="btn_Abilities">Способности</string>
+    <string name="btn_Characteristic">Характеристика</string>
+    <string name="btn_CharacterData">Данные персонажа</string>
+
+    <string name="equipmentName">Название снаряжения</string>
+    <string name="equipmentInfo">Информация о предмете</string>
+    
+    <string name="playerName">Имя игрока</string>
+    <string name="characterName">Имя персонажа</string>
+    <string name="characterClass">Класс</string>
+    <string name="race">Раса</string>
+    <string name="prehistory">Предыстория</string>
+    <string name="level">Уровень</string>
+    <string name="experiencePoints">Очки опыта</string>
+    <string name="ideology">Мировоззрение</string>
+    <string name="traits">Черты характера</string>
+    <string name="ideals">Идеалы</string>
+    <string name="affections">Привязанности</string>
+    <string name="weaknesses">Слабости</string>
+    
+    <string name="attacksNSpells">Атаки и заклинания</string>
+    <string name="skillsNAbilities">Умения и способности</string>
+    <string name="OtherPossessionsNSkills">Прочие владения и навыки</string>
+
+    <string name="currentHealth">Текущее здоровье</string>
+    <string name="temporaryHealth">Временное здоровье</string>
+    <string name="armorClass">Класс доспехов</string>
+    <string name="initiative">Инициатива</string>
+    <string name="speed">Скорость</string>
+    <string name="inspiration">Вдохновение</string>
+    <string name="masteryBonus">Бонус мастерства</string>
+    <string name="passiveWisdom">Пассивная мудрость</string>
+    <string name="movesBone">Кость ходов</string>
+    <string name="btn_savingThrows">Спасброски</string>
+    <string name="btn_skills">Навыки</string>
+    <string name="btn_deathSavingThrows">Спасброски от смерти</string>
+    
+    <string name="power">Сила</string>
+    <string name="agility">Ловкость</string>
+    <string name="bodyType">Телосложение</string>
+    <string name="intelligence">Интеллект</string>
+    <string name="wisdom">Мудрость</string>
+    <string name="charisma">Харизма</string>
+    
+    <string name="acrobatics">Акробатика</string>
+    <string name="analysis">Анализ</string>
+    <string name="athletics">Атлетика</string>
+    <string name="mindfulness">Внимательность</string>
+    <string name="survival">Выживание</string>
+    <string name="performance">Выступление</string>
+    <string name="intimidation">Запугивание</string>
+    <string name="history">История</string>
+    <string name="handSleight">Ловкость рук</string>
+    <string name="magic">Магия</string>
+    <string name="medicine">Медицина</string>
+    <string name="cheating">Обман</string>
+    <string name="nature">Природа</string>
+    <string name="insight">Проницательность</string>
+    <string name="religion">Религия</string>
+    <string name="stealth">Скрытность</string>
+    <string name="conviction">Убеждение</string>
+    <string name="animalCare">Уход за животными</string>
+
+    <string name="successes">Успехи</string>
+    <string name="failures">Провалы</string>
+
+    <string name="btn_Next">Далее</string>
+    <string name="btn_Prev">Назад</string>
+    <string name="btn_Add">Добавить</string>
+    <string name="btn_Save">Сохранить</string>
+
+    <string name="title_activity_main_menu">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- Подключение к бэку, пока по ip и только локально-->
+    <string name="connection">http://192.168.0.103:8080</string>
+</resources>
